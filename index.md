@@ -43,14 +43,14 @@ A pena de vento (wind feather) indica a velocidade em m/s e o ângulo de direç�
 
 FIGURA 7 - ESCALA BEAUFORT
  
-  ## 3.2 Maré
+  <h2>3.2 Maré</h2>
 É mostrado o valor atual de maré, a série histórica das últimas 12 horas, bem como os horários e alturas esperadas da preamar e baixa mar. 
  
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem8.png)
 
 FIGURA 8 - GRÁFICO DE MARÉ
 
-  ## 3.3 Corrente
+  <h2>3.3 Corrente</h2>
 O indicador abaixo apresenta a velocidade (m/s) e direção da corrente de superfície.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem9.png)
@@ -73,7 +73,7 @@ Valores iniciais: User ”Admin” e Senha “Password”.
 # 5 Configuração
 Apenas administradores tem acesso aos menus de configuração, que permitem a inclusão de usuários de sistemas, a definição de seus papéis, as configurações de berços e atalhos para aplicações externas.
 
-  ## 5.1 Usuários
+  <h2>5.1 Usuários</h2>
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem11.png)
 
@@ -83,7 +83,7 @@ FIGURA 12 - USUÁRIOS
 
 FIGURA 13 - NOVO USUÁRIO
 
-  ## 5.2 Papéis 
+  <h2>5.2 Papéis</h2>
 Administrador	
 Gerente	
 Supervisor	
@@ -103,7 +103,7 @@ Essa funcionalidade permite a configuração dos berços. Limites operacionais d
 
 FIGURA 15 - CONFIGURAÇÃO DOS BERÇOS
 
-  ## 6.1 Limites de Atracação
+  <h2>6.1 Limites de Atracação</h2>
 Limites da atracação podem ter definições diferentes para dia, noite, navios de porte leve e de porte pesado. Alarmes visuais serão acionados em caso de aproximação dos limites.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem15.png)
@@ -114,19 +114,19 @@ FIGURA 16 - LIMITES PORTE PESADO
 
 FIGURA 17 - LIMITES PORTE LEVE
  
-  ## 6.2 Ganchos de Amarração
+  <h2>6.2 Ganchos de Amarração</h2>
 Os níveis de tensão e alarme dos ganchos “quick-release” dos berços PGL 3A e PGL 3B podem ser definidos conjunta ou individualmente para valores na faixa de 0 a 100 toneladas.
 
 FIGURA 18 - GANCHOS DE AMARRAÇÃO
  
-  ## 6.3 Condições Ambientais
+  <h2>6.3 Condições Ambientais</h2>
 Define quais são os limites operacionais aceitáveis para as condições meteoceanográficas (vento e corrente de superfície).
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem17.png)
 
 FIGURA 19 - CONDIÇÕES AMBIENTAIS
  
-  ## 6.4 Menu
+  <h2>6.4 Menu</h2>
 Atalhos para acesso a outros serviços e sites direto da aplicação. Os links registrados aparecem no menu lateral como “Links Externos”.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem18.png)
@@ -140,7 +140,7 @@ FIGURA 20 - MENU
 FIGURA 21 - CADASTRAR MENU
  
 # 7 Serviços Portuários
-  ## 7.1 Práticos
+  <h2>7.1 Práticos</h2>
 Lista dos práticos do porto e seu Status atual.
 Apenas os práticos marcados como “Ativo” são elegíveis para escolha durante as manobras.
 
@@ -154,7 +154,7 @@ Inclusão ou atualização de novo prático ou alterar os já cadastrados.
 
 FIGURA 23 - CADASTRO DE PRÁTICO
  
-  ## 7.2 Rebocadores
+  <h2>7.2 Rebocadores</h2>
 Lista de rebocadores do porto, com informações de Bollard Pull (ton), Armador e Status do rebocador.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem22.png)
@@ -173,7 +173,7 @@ Símbolos SMA
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/s%C3%ADmbolos%20SMA.png)
  
-  ## 8.1 Agendamento
+  <h2>8.1 Agendamento</h2>
 Para agendar uma atração deve se indicar o navio, o berço e a data estimada de chegada.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem24.png)
@@ -182,7 +182,7 @@ FIGURA 26 - AGENDAMENTO
 
 O campo “Navio” deve ser preenchido com “IMO ‘número IMO da embarcação’” ou, alternativamente, com o MMSI para preenchimento automático de Nome, Calado de Entrada e TPB do navio.
 
-  ## 8.2 Atracação
+  <h2>8.2 Atracação</h2>
 O navio que chegar ao porto deve ser indicado na aba de Berços, informando o seu horário de chegada.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem25.png)
@@ -195,13 +195,13 @@ No momento que o navio foi indicado como presente no porto, se dará início ao 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem28.png)
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem29.png)
   
-  ## 8.3 Etapas "Timeline"
+  <h2>8.3 Etapas "Timeline"</h2>
  
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem30.png)
 
 FIGURA 28 - ETAPAS DO PROCESSO DE ATRACAÇÃO
  
-  ## 8.4 Praticagem
+  <h2>8.4 Praticagem</h2>
 Para escolher prático e rebocadores de apoio a essa manobra.
  
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem31.png)
@@ -213,11 +213,11 @@ FIGURA 29 - PRÁTICO
 
 FIGURA 30 – REBOCADORES
  
-  ## 8.5 Manobra
+  <h2>8.5 Manobra</h2>
  
-  ## 8.6 Amarração
+  <h2>8.6 Amarração</h2>
  
-  ## 8.7 Relatório
+  <h2>8.7 Relatório</h2>
 Relatório para impressão dos detalhes da atracação.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem34.png)
@@ -228,7 +228,7 @@ FIGURA 31 - RELATÓRIO
 
 FIGURA 32 - GRÁFICO DO RELATÓRIO
  
-  ## 8.8 LineUp "Programados"
+  <h2>8.8 LineUp "Programados"</h2>
 Atracações agendadas encontram-se nesta tela.
 
 As cores de item e de ícones de status são alteradas a fim de ajudar na interpretação da grade de programados.
@@ -242,7 +242,7 @@ Tabela de Cores
 
 FIGURA 33 - PROGRAMADOS
  
-  ## 8.9 Ocupação dos Berços
+  <h2>8.9 Ocupação dos Berços</h2>
 Lista com atracações agendadas para o berço.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem41.png)
@@ -253,7 +253,7 @@ FIGURA 34 - OCUPAÇÃO DOS BERÇOS
 
 FIGURA 35 - NAVIO NO FUNDEIO
  
-  ## 8.10 Histórico
+  <h2>8.10 Histórico</h2>
 Registro de atracações já realizadas ou canceladas na aplicação.
 Uma busca pode ser realizada utilizando filtros de Nome, IMO, MMSI ou datas de chegada e saída do porto.
 
