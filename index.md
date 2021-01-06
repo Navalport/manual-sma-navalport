@@ -89,7 +89,7 @@ Gerente
 Supervisor	
 Operador	
 Ativo	
- 
+
 # 6 Berços 
 No SMA, cada berço pode ter seus parâmetros operacionais definidos de forma individualizada.
 
