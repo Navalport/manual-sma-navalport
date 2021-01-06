@@ -233,8 +233,8 @@ Atracações agendadas encontram-se nesta tela.
 
 As cores de item e de ícones de status são alteradas a fim de ajudar na interpretação da grade de programados.
 
-```markdown
-Tabela de Cores
+<h2>Tabela de Cores</h2>
+
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem36.png) Indicam a estimativa da realização da próxima fase da atracação ou da partida do navio.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem37.png) Atraso ou conflito.
@@ -242,7 +242,6 @@ Tabela de Cores
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem38.png) Vazio.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem39.png) Operação normal.
-```
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem40.png)
 
@@ -268,7 +267,7 @@ Uma busca pode ser realizada utilizando filtros de Nome, IMO, MMSI ou datas de c
 FIGURA 36 - HISTÓRICO
 
 
-
+<!--
 ----------------
 
 
@@ -308,3 +307,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+-->
