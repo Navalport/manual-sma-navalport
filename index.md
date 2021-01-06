@@ -1,5 +1,5 @@
 <img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/7248846ca8a0addcf73fb9faf4d62f7eea72e2af/img/headersvg.svg" width="300px">
-## Bem-vindo ao Manual Navalport
+<h2>Bem-vindo ao Manual Navalport</h2>
 
 # 1 Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
@@ -28,7 +28,7 @@ MAPYX é uma plataforma de monitoramento contínuo de frota marítima e hidrovi�
 
  FIGURA 4 - PAINEL METEOROLÓGICO
  
-  ##3.1 Vento
+  <h2>3.1 Vento</h2>
 A pena de vento (wind feather) indica a velocidade em m/s e o ângulo de direção do vento em relação ao norte verdadeiro. Também apresentado o valor de Rajada no período de 5 minutos.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem5.png)
