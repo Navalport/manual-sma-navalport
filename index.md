@@ -232,11 +232,17 @@ FIGURA 32 - GRÁFICO DO RELATÓRIO
 Atracações agendadas encontram-se nesta tela.
 
 As cores de item e de ícones de status são alteradas a fim de ajudar na interpretação da grade de programados.
+
+```markdown
 Tabela de Cores
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem36.png) Indicam a estimativa da realização da próxima fase da atracação ou da partida do navio.
+
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem37.png) Atraso ou conflito.
+
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem38.png) Vazio.
+
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem39.png) Operação normal.
+```
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem40.png)
 
