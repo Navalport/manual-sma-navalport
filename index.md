@@ -1,4 +1,4 @@
-## Bem-vindo ao Manual Navalport
+## Bem-vindo ao Manual Navalport ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/7248846ca8a0addcf73fb9faf4d62f7eea72e2af/img/headersvg.svg)
 - 1 Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
 
@@ -169,22 +169,7 @@ FIGURA 25 - CADASTRO DE REBOCADORES
 Em toda aplicação SMA são usados os seguintes ícones com significado idêntico ou correlato em todos os seus usos.
 Símbolos SMA
 
- 	manobrando	 	maré alta
- 	atracado	 	maré baixa
- 	desatracando	 	maré subindo
- 	finalizado	 	maré descendo
- 	esperando	 	nascer do sol
- 	abortado	 	pôr do sol
- 	programado	 	editar
- 	cancelado	 	planilha
- 	calado	 	chat
- 	calado	 	imprimir
- 	rebocadores	 	anexo
- 	práticos	 	nível do rio
- 	berço		
- 	iniciar		
- 	cancelar		
-
+![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/s%C3%ADmbolos%20SMA.png)
  
   - 8.1 Agendamento
 Para agendar uma atração deve se indicar o navio, o berço e a data estimada de chegada.
