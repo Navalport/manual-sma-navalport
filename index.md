@@ -25,7 +25,7 @@ A pena de vento (wind feather) indica a velocidade em m/s e o ângulo de direç�
   ![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem6.png)
 FIGURA 6 - BEAUFORT MARINHA
 
-![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem7.png)
+![Image](https://raw.githubusercontent.com/Navalport/webtests.github.io/gh-pages/img/Imagem1.png)
 ![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem8.png)
 ![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem9.png)
 ![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem10.png)
