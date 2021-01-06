@@ -90,7 +90,7 @@ Supervisor
 Operador	
 Ativo	
  
-# 6 Berços
+# 6 Berços 
 No SMA, cada berço pode ter seus parâmetros operacionais definidos de forma individualizada.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem13.png)
