@@ -1,7 +1,7 @@
 ## Bem-vindo ao Manual Navalport
 1. Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
-![Image](https://raw.githubusercontent.com/Navalport/webtests.github.io/gh-pages/img/Imagem1.png)
+![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem1.png)
 
 2. Navegação
 É de acesso público (sem necessidade de login) as informações cartográficas.
