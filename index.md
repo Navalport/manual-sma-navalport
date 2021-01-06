@@ -1,19 +1,19 @@
 ## Bem-vindo ao Manual Navalport
 1. Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
-![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem1.png)
+![Image](https://raw.githubusercontent.com/Navalport/webtests.github.io/gh-pages/img/Imagem1.png)
 
 2. Navegação
 É de acesso público (sem necessidade de login) as informações cartográficas.
- ![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem2.png)
+ ![Image](https://raw.githubusercontent.com/Navalport/webtests.github.io/gh-pages/img/Imagem2.png)
 FIGURA 2 - FUNDEIO E NAVEGAÇÃO INTERNA
 MAPYX é uma plataforma de monitoramento contínuo de frota marítima e hidroviária baseado em comunicação de dados satelital e aquisição de dados em tempo real que proporciona segurança na navegação e na rotina operacional da embarcação. O MAPYX® permite também o registro confiável e auditável de ações humanas como o embarque e desembarque de tripulantes e visitantes, a conferência de procedimentos obrigatórios – checklists de navegação – bem o acompanhamento da agenda de manutenções do navio.
- ![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem3.png)
+ ![Image](https://raw.githubusercontent.com/Navalport/webtests.github.io/gh-pages/img/Imagem3.png)
 FIGURA 3 - MAPYX
 
 3. Meteorologia
 É de acesso público (sem necessidade de login) as informações meteorológicas
- ![Image](C:\Users\gbm_1\Documents\GitHub\webtests.github.io\img\Imagem4.png)
+ ![Image](https://raw.githubusercontent.com/Navalport/webtests.github.io/gh-pages/img/Imagem4.png)
  FIGURA 4 - PAINEL METEOROLÓGICO
  
 
