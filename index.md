@@ -28,7 +28,7 @@ MAPYX é uma plataforma de monitoramento contínuo de frota marítima e hidrovi�
 
  FIGURA 4 - PAINEL METEOROLÓGICO
  
-  ## 3.1 Vento
+  ##3.1 Vento
 A pena de vento (wind feather) indica a velocidade em m/s e o ângulo de direção do vento em relação ao norte verdadeiro. Também apresentado o valor de Rajada no período de 5 minutos.
 
 ![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem5.png)
