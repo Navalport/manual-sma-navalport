@@ -37,8 +37,7 @@ A pena de vento (wind feather) indica a velocidade em m/s e o ângulo de direç�
 
   FIGURA 6 - BEAUFORT MARINHA
  
-![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem7.png)
-<img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem7.png" width="100">
+<img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem7.png" width="300">
 
 FIGURA 7 - ESCALA BEAUFORT
  
