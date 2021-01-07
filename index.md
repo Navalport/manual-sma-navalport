@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="stylesheet.css" media="screen"/>
+<link rel="stylesheet" type="text/css" href="https://github.com/Navalport/manual-sma-navalport/blob/gh-pages/stylesheet.css" media="screen"/>
 
 <img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/7248846ca8a0addcf73fb9faf4d62f7eea72e2af/img/headersvg.svg" width="500px">
 <h2>Bem-vindo ao Manual Navalport</h2>
@@ -6,7 +6,7 @@
 # 1 Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
 
-<img class="image" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem1.png" width="1000px">
+<img class="image" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem1.png">
 
 FIGURA 1 - VISÃO GERAL
 
