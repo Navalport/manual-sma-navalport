@@ -165,7 +165,7 @@ header {
   h1 {
     font: 40px/48px "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
     color: #f3f3f3;
-    text-shadow: 0px 2px 0px #235796;
+    text-shadow: 0px 2px 0px #ddaaaa;
     margin: 0px;
     white-space: nowrap;
     overflow: hidden;
@@ -333,9 +333,9 @@ nav {
     }
 
     a {
-      color: #656565;
+      color: #665;
 
-      &:hover { color: #666; }
+      &:hover { color: #335; }
     }
 
     // .active {
