@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="https://github.com/Navalport/manual-sma-navalport/blob/gh-pages/stylesheet.css" media="screen"/>
+<link rel="stylesheet" href="https://github.com/Navalport/manual-sma-navalport/blob/gh-pages/stylesheet.css" media="screen"/>
 
 <img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/7248846ca8a0addcf73fb9faf4d62f7eea72e2af/img/headersvg.svg" width="500px">
 <h2>Bem-vindo ao Manual Navalport</h2>
@@ -13,13 +13,13 @@ FIGURA 1 - VISÃO GERAL
 # 2 Navegação
 É de acesso público (sem necessidade de login) as informações cartográficas.
 
-![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem2.png)
+<img class="image" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem2.png">
 
 FIGURA 2 - FUNDEIO E NAVEGAÇÃO INTERNA
 
 MAPYX é uma plataforma de monitoramento contínuo de frota marítima e hidroviária baseado em comunicação de dados satelital e aquisição de dados em tempo real que proporciona segurança na navegação e na rotina operacional da embarcação. O MAPYX® permite também o registro confiável e auditável de ações humanas como o embarque e desembarque de tripulantes e visitantes, a conferência de procedimentos obrigatórios – checklists de navegação – bem o acompanhamento da agenda de manutenções do navio.
 
-![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem3.png)
+<img class="image" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem3.png">
 
  FIGURA 3 - MAPYX
 
