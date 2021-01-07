@@ -1,3 +1,5 @@
-.image {
-  width: 1000px;
+image {
+  width:1000px;
+  border-style: solid;
+  border-color: red;
 }
