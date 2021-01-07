@@ -1,11 +1,7 @@
-<img width="500px" src="https://github.com/Navalport/manual-sma-navalport/blob/gh-pages/img/headersvg.svg">
-
 <!-- [Custom foo description](#foo) 
 
 # Foo
 -->
-
-
 <h2>Bem-vindo ao Manual Navalport</h2>
 
 # 1 Visão Geral
