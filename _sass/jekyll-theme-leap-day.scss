@@ -201,7 +201,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   padding-right: 10px;
 
   .button {
-    border: 1px solid #ffffff;
+    border: 1px solid #FFCEA4;
     background: linear-gradient(rgb(243, 142, 54), rgb(251, 175, 110));
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
@@ -218,7 +218,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 
     &:hover {
       background: linear-gradient(rgb(251, 175, 110), rgb(251, 175, 110));
-      background-color: #017B81;
+      background-color: #f36e38;
     }
   }
 
