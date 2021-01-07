@@ -205,7 +205,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
     background: linear-gradient(rgb(243, 142, 54), rgb(251, 175, 110));
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #013F42;
+    background-color: #f36e38;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
@@ -333,9 +333,9 @@ nav {
     }
 
     a {
-      color: #666;
+      color: #656565;
 
-      &:hover { color: #999; }
+      &:hover { color: #666; }
     }
 
     // .active {
