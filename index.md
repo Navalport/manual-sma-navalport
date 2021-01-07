@@ -6,7 +6,7 @@
 # 1 Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
 
-![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem1.png)
+<img class="image" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem1.png" width="1000px">
 
 FIGURA 1 - VISÃO GERAL
 
@@ -55,7 +55,7 @@ FIGURA 8 - GRÁFICO DE MARÉ
   <h2>3.3 Corrente</h2>
 O indicador abaixo apresenta a velocidade (m/s) e direção da corrente de superfície.
 
-![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem9.png)
+<img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem9.png" width="1000px">
 
 FIGURA 9 - BÚSSOLA DE CORRENTE
 
@@ -65,7 +65,7 @@ FIGURA 10 - LOCALIZAÇÃO E RAIO DE ALCANCE DO CORRENTÔMETRO
 # 4 Login
 Ao clicar no ícone de usuário no canto superior direito da página, o campo de login será exibido:
  
-![Image](https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem10.png)
+<img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem10.png" width="1000px">
 
 FIGURA 11 - TELA DE LOGIN
 
