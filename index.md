@@ -175,7 +175,7 @@ Símbolos SMA
 <img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/s%C3%ADmbolos%20SMA.png">
  
   <h2>8.1 Agendamento</h2>
-Para agendar uma atração deve se indicar o navio, o berço e a data estimada de chegada.
+Para agendar uma atração deve-se indicar o navio, o berço e a data estimada de chegada.
 
 <img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem24.png">
 
