@@ -10,7 +10,7 @@ Essa é a visão geral dos componentes e painéis da aplicação SMA
 FIGURA 1 - VISÃO GERAL
 
 # 2 Navegação
-É de acesso público (sem necessidade de login) as informações cartográficas.
+São de acesso público (sem necessidade de login) as informações cartográficas.
 
 <img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem2.png">
 
