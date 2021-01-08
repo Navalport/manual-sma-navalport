@@ -2,8 +2,6 @@
 
 # Foo
 -->
-<h2>Bem-vindo ao Manual Navalport</h2>
-
 # 1 Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
 
