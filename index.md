@@ -170,6 +170,7 @@ FIGURA 24 - LISTA DE REBOCADORES
 
 FIGURA 25 - CADASTRO DE REBOCADORES
 
+<!--
 # 8 Programação
 Em toda aplicação SMA são usados os seguintes ícones com significado idêntico ou correlato em todos os seus usos.
 Símbolos SMA
@@ -269,6 +270,7 @@ Uma busca pode ser realizada utilizando filtros de Nome, IMO, MMSI ou datas de c
 
 FIGURA 36 - HISTÓRICO
 
+-->
 
 <!--
 ----------------
