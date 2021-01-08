@@ -2,6 +2,9 @@
 
 # Foo
 -->
+
+[a relative link](programacao.md)
+
 # 1 Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
 
