@@ -190,8 +190,8 @@ header {
   margin-right:-382px;
   position: fixed;
   top: 115px;
-background: rgba( 243, 142, 54, 0.50 );
-box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+background: rgba( 66, 153, 158, 0.50 );
+box-shadow: 0 8px 32px 0 rgba( 101, 101, 101, 0.37 );
 backdrop-filter: blur( 14.5px );
 -webkit-backdrop-filter: blur( 14.5px );
 border-radius: 10px;
@@ -202,10 +202,10 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
 
   .button {
     border: 1px solid #FFCEA4;
-    background: linear-gradient(rgb(243, 142, 54), rgb(251, 175, 110));
+    background: linear-gradient(#42999E, #01AAB2);
     border-radius: 2px;
     box-shadow: inset 0px 1px 0px rgba(255,255,255,.4), 0px 1px 1px rgba(0,0,0,.1);
-    background-color: #f36e38;
+    background-color: #42999E;
     margin-left: 5px;
     padding: 10px 12px;
     margin-top: 6px;
@@ -217,8 +217,8 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
     text-align:center;
 
     &:hover {
-      background: linear-gradient(rgb(251, 175, 110), rgb(251, 175, 110));
-      background-color: #f36e38;
+      background: linear-gradient(#01AAB2, #01AAB2);
+      background-color: #01AAB2;
     }
   }
 
