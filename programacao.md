@@ -1,3 +1,5 @@
+[a relative link](index.md)
+
 # 8 Programação
 Em toda aplicação SMA são usados os seguintes ícones com significado idêntico ou correlato em todos os seus usos.
 Símbolos SMA
