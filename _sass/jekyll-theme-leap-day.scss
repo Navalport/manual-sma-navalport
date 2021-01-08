@@ -147,6 +147,10 @@ dt {
   font-weight:700;
 }
 
+.mobile-button {
+  display: none;
+}
+
 header {
   padding: 25px 20px 40px 20px;
   margin: 0;
@@ -532,6 +536,10 @@ footer {
     display: none;
   }
 
+  .mobile-button {
+    float: right;
+  }
+  
   footer {
     text-align: center;
     margin: 20px auto;
