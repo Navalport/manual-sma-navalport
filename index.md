@@ -98,7 +98,7 @@ No SMA, cada berço pode ter seus parâmetros operacionais definidos de forma in
 
 FIGURA 14 – BERÇOS
 
-Essa funcionalidade permite a configuração dos berços. Limites operacionais dos berços, como por exemplo as máximas dimensões operacionais.
+Essa funcionalidade permite a configuração dos berços. Limites operacionais dos berços, como, por exemplo, as máximas dimensões operacionais.
 
 <img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem14.png">
 
