@@ -44,10 +44,12 @@
         <ul></ul>
       </nav>
       <section>
+        <span>
         <a href="https://navalport.github.io/manual-sma-navalport/programacao.html" class="mobile-button"><img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/275ac8c3da8c7ac227288290198c89e4d714fa01/img/arrow_left.svg"></a>
-        {{ content }}
         <a href="https://navalport.github.io/manual-sma-navalport/" class="mobile-button"><img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/275ac8c3da8c7ac227288290198c89e4d714fa01/img/arrow_right.svg"></a>
-      </section>
+        </span>
+          {{ content }}
+       </section>
       <footer>
         {% if site.github.is_project_page %}
           <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
