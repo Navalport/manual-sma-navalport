@@ -1,15 +1,17 @@
 <!-- [Custom foo description](#foo) 
-<span id="inicio">
+
 # Foo
 [a relative link](programacao.md)
 
 -->
+<span id="inicio">
+ 
 # 1 Visão Geral
 Essa é a visão geral dos componentes e painéis da aplicação SMA
 
 <img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem1.png">
 
-FIGURA 1 - VISÃO GERAL
+<span class="legend">FIGURA 1 - VISÃO GERAL</span>
 
 # 2 Navegação
 São de acesso público (sem necessidade de login) as informações cartográficas.
