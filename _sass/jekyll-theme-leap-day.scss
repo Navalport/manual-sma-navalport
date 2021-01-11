@@ -31,6 +31,7 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  margin-top: 42px;
 }
 
 h2 {
@@ -45,6 +46,13 @@ h3, h4, h5, h6 {
 h3 {
   font-size: 18px;
   line-height: 24px;
+}
+
+.legend {
+  float: center;
+  margin: auto;
+  text-align: center;
+  color: red;
 }
 
 a {
