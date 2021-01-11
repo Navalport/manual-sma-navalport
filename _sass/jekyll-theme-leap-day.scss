@@ -241,18 +241,8 @@ border: 1px solid #04C6CF;
       background-color: #01AAB2;
     }
   }
-
-  .fork {
-    position:fixed;
-    left:50%;
-    margin-left:-325px;
-    padding: 10px 12px;
-    margin-top: 6px;
-    line-height:14px;
-    font-size:14px;
-    background-color: #FFE788;
-  }
-.fork1 {
+ /*
+.page {
     position:fixed;
     left:50%;
     margin-left:-40px;
@@ -262,7 +252,8 @@ border: 1px solid #04C6CF;
     font-size:14px;
     background-color: #FFE788;
   }
-  
+ 
+
  .fork2 {
     position:fixed;
     left:50%;
@@ -273,7 +264,17 @@ border: 1px solid #04C6CF;
     font-size:14px;
     background-color: #FFE788;
   }
- 
+ */
+  
+  .page{
+    width:80px;
+    padding: 8px;
+    margin: 4px;
+    border: yellow 1px;
+    font-size:14px;
+    background-color: #FFE788;
+  }
+  
   .downloads {
     float: right;
     margin:0 45px 0 0;
