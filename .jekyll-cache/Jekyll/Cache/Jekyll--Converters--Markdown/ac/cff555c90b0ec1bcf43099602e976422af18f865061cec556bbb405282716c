@@ -1,0 +1,103 @@
+I"<p><span id="programacao"></span></p>
+
+<h1 id="programação">Programação</h1>
+<p>Em toda aplicação SMA são usados os seguintes ícones com significado idêntico ou correlato em todos os seus usos.
+Símbolos SMA</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/s%C3%ADmbolos%20SMA.png" /></p>
+
+<div class="legend">SÍMBOLOS SMA</div>
+<p> </p>
+<h2>8.1 Agendamento</h2>
+<p>Para agendar uma atração deve-se indicar o navio, o berço e a data estimada de chegada.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem24.png" /></p>
+
+<div class="legend">FIGURA 26 - AGENDAMENTO</div>
+
+<p>O campo “Navio” deve ser preenchido com “IMO ‘número IMO da embarcação’” ou, alternativamente, com o MMSI para preenchimento automático de Nome, Calado de Entrada e TPB do navio.</p>
+
+<h2>8.2 Atracação</h2>
+<p>O navio que chegar ao porto deve ser indicado na aba de Berços, informando o seu horário de chegada.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem25.png" /></p>
+
+<div class="legend">FIGURA 27 - TELA DE ATRACAÇÃO E LISTA DE ÍCONES SMA</div>
+
+<p>No momento que o navio foi indicado como presente no porto, se dará início ao processo de fundeio.
+<img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem26.png" />
+<img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem27.png" />
+<img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem28.png" />
+<img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem29.png" />
+  </p>
+<h2>8.3 Etapas "Timeline"</h2>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem30.png" /></p>
+
+<div class="legend">FIGURA 28 - ETAPAS DO PROCESSO DE ATRACAÇÃO</div>
+<p> </p>
+<h2>8.4 Praticagem</h2>
+<p>Para escolher prático e rebocadores de apoio a essa manobra.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem31.png" />
+<img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem32.png" /></p>
+
+<div class="legend">FIGURA 29 - PRÁTICO</div>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem33.png" /></p>
+
+<div class="legend">FIGURA 30 – REBOCADORES</div>
+<p> </p>
+<h2>8.5 Manobra</h2>
+<p> </p>
+<h2>8.6 Amarração</h2>
+<p> </p>
+<h2>8.7 Relatório</h2>
+<p>Relatório para impressão dos detalhes da atracação.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem34.png" /></p>
+
+<div class="legend">FIGURA 31 - RELATÓRIO</div>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem35.png" /></p>
+
+<div class="legend">FIGURA 32 - GRÁFICO DO RELATÓRIO</div>
+<p> </p>
+<h2>8.8 LineUp "Programados"</h2>
+<p>Atracações agendadas encontram-se nesta tela.</p>
+
+<p>As cores de item e de ícones de status são alteradas a fim de ajudar na interpretação da grade de programados.</p>
+
+<h2>Tabela de Cores</h2>
+
+<p><img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem36.png" alt="Image" /> Indicam a estimativa da realização da próxima fase da atracação ou da partida do navio.</p>
+
+<p><img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem37.png" alt="Image" /> Atraso ou conflito.</p>
+
+<p><img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem38.png" alt="Image" /> Vazio.</p>
+
+<p><img src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem39.png" alt="Image" /> Operação normal.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem40.png" /></p>
+
+<div class="legend">FIGURA 33 - PROGRAMADOS</div>
+<p> </p>
+<h2>8.9 Ocupação dos Berços</h2>
+<p>Lista com atracações agendadas para o berço.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem41.png" /></p>
+
+<div class="legend">FIGURA 34 - OCUPAÇÃO DOS BERÇOS</div>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem42.png" /></p>
+
+<div class="legend">FIGURA 35 - NAVIO NO FUNDEIO</div>
+<p> </p>
+<h2>8.10 Histórico</h2>
+<p>Registro de atracações já realizadas ou canceladas na aplicação.
+Uma busca pode ser realizada utilizando filtros de Nome, IMO, MMSI ou datas de chegada e saída do porto.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem43.png" /></p>
+
+<div class="legend">FIGURA 36 - HISTÓRICO</div>
+:ET

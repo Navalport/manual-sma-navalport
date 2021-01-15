@@ -1,0 +1,19 @@
+I"�<p><span id="inicio"></span></p>
+
+<h1 id="visão-geral">Visão Geral</h1>
+<p>Essa é a visão geral dos componentes e painéis da aplicação SMA</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem1.png" /></p>
+
+<div class="legend">FIGURA 1 - VISÃO GERAL</div>
+
+<h1 id="login">Login</h1>
+<p>Ao clicar no ícone de usuário no canto superior direito da página, o campo de login será exibido:</p>
+
+<p><img width="1000px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem10.png" /></p>
+
+<div class="legend">FIGURA 2 - TELA DE LOGIN</div>
+
+<p>Use suas credenciais para acessar a aplicação.
+Valores iniciais: User ”Admin” e Senha “Password”.</p>
+:ET

@@ -1,0 +1,71 @@
+I"'<p><span id="configuracao"></span></p>
+
+<h1 id="configuração">Configuração</h1>
+<p>Apenas administradores tem acesso aos menus de configuração, que permitem a inclusão de usuários de sistemas, a definição de seus papéis, as configurações de berços e atalhos para aplicações externas.</p>
+
+<h2>Usuários</h2>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem11.png" /></p>
+
+<p>FIGURA 12 - USUÁRIOS</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem12.png" /></p>
+
+<p>FIGURA 13 - NOVO USUÁRIO</p>
+
+<h2>Papéis</h2>
+<p>Administrador	
+Gerente	
+Supervisor	
+Operador	
+Ativo</p>
+
+<h1 id="berços">Berços</h1>
+<p>No SMA, cada berço pode ter seus parâmetros operacionais definidos de forma individualizada.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem13.png" /></p>
+
+<p>FIGURA 14 – BERÇOS</p>
+
+<p>Essa funcionalidade permite a configuração dos berços. Limites operacionais dos berços, como, por exemplo, as máximas dimensões operacionais.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem14.png" /></p>
+
+<p>FIGURA 15 - CONFIGURAÇÃO DOS BERÇOS</p>
+
+<h2>Limites de Atracação</h2>
+<p>Limites da atracação podem ter definições diferentes para dia, noite, navios de porte leve e de porte pesado. Alarmes visuais serão acionados em caso de aproximação dos limites.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem15.png" /></p>
+
+<p>FIGURA 16 - LIMITES PORTE PESADO</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem16.png" /></p>
+
+<p>FIGURA 17 - LIMITES PORTE LEVE
+ </p>
+<h2>Ganchos de Amarração</h2>
+<p>Os níveis de tensão e alarme dos ganchos “quick-release” dos berços PGL 3A e PGL 3B podem ser definidos conjunta ou individualmente para valores na faixa de 0 a 100 toneladas.</p>
+
+<p>FIGURA 18 - GANCHOS DE AMARRAÇÃO
+ </p>
+<h2>Condições Ambientais</h2>
+<p>Define quais são os limites operacionais aceitáveis para as condições meteoceanográficas (vento e corrente de superfície).</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem17.png" /></p>
+
+<p>FIGURA 19 - CONDIÇÕES AMBIENTAIS
+ </p>
+<h2>Menu</h2>
+<p>Atalhos para acesso a outros serviços e sites direto da aplicação. Os links registrados aparecem no menu lateral como “Links Externos”.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem18.png" /></p>
+
+<p>FIGURA 20 - MENU</p>
+
+<p>“Nome” é como o link irá aparecer no menu “Links Externos” e “URL” é a respectiva URL de acesso.</p>
+
+<p><img width="750px" src="https://raw.githubusercontent.com/Navalport/manual-sma-navalport/gh-pages/img/Imagem19.png" /></p>
+
+<p>FIGURA 21 - CADASTRAR MENU</p>
+:ET
